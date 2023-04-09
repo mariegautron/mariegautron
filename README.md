@@ -25,10 +25,6 @@
 
 - ⚡ Fun fact **J'ai un chien qui s'appelle Ruby 🦮**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/gautron_marie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gautron_marie" height="30" width="40" /></a>
@@ -45,3 +41,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariegautron&show_icons=true&locale=en" alt="mariegautron" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariegautron&" alt="mariegautron" /></p>
+
+
+### Articles de blog Troopers
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
