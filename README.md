@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour 👋, Je suis Marie</h1>
 <h3 align="center">Développeuse front-end et passionnée d'UX/UI design et d'accessibilité numérique.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariegautron" alt="mariegautron" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariegautron" alt="mariegautron" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/gautron_marie" target="blank"><img src="https://img.shields.io/twitter/follow/gautron_marie?logo=twitter&style=for-the-badge" alt="gautron_marie" /></a> </p>
 
