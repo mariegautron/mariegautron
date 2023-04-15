@@ -21,7 +21,7 @@
 
 - 📫 Vous pouvez me contacter **marie@troopers.email**
 
-- 📄 Pour en savoir plus sur mes expériences professionnelles [https://marie-gautrons-marvelous-site.webflow.io/](https://marie-gautrons-marvelous-site.webflow.io/)
+- 📄 Pour en savoir plus sur mes expériences professionnelles [https://marie-gautron.webflow.io/](https://marie-gautrons-marvelous-site.webflow.io/)
 
 - ⚡ Fun fact **J'ai un chien qui s'appelle Ruby 🦮**
 
