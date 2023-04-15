@@ -43,7 +43,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariegautron&" alt="mariegautron" /></p>
 
 
-### Articles de blog Troopers
+### Articles de blog
 <!-- BLOG-POST-LIST:START -->
 - [Legacy to DDD : Partie 3 - Tester et faire du neuf avec Domain-Driven Design en PHP](https://slash.troopers.coop/article/legacy-to-ddd-partie-3-tester-moderniser-application-php-domain-driven-design)
 - [Legacy to DDD : Partie 2 - Comment moderniser votre application PHP avec le Domain-Driven Design](https://slash.troopers.coop/article/legacy-to-ddd-partie-2-moderniser-application-php-domain-driven-design)
