@@ -45,5 +45,6 @@
 
 ### Articles de blog
 <!-- BLOG-POST-LIST:START -->
+- [Réduisez l&#39;impact environnemental des vidéos YouTube sur votre site web avec des vignettes.](https://dev.to/gautron_marie/reduisez-limpact-environnemental-des-videos-youtube-sur-votre-site-web-avec-des-vignettes-1fb4)
 - [Comment travailler avec des boomers ? Le point de vue de la génération Z](https://dev.to/gautron_marie/comment-travailler-avec-des-boomers-le-point-de-vue-de-la-generation-z-3ao4)
 <!-- BLOG-POST-LIST:END -->
